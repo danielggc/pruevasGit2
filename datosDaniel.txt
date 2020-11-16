@@ -1,0 +1,6 @@
+nombre :daiel
+edad : 18
+residencia sabaneta
+estado :estudiando
+
+profecion : ?
