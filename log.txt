@@ -1,0 +1,35 @@
+commit f2b4efc32ee9e9e798ed61647361415ab28bcf22
+Author: danielggc <danielgrecia7@gmail.com>
+Date:   Mon Nov 16 22:28:05 2020 -0500
+
+     estructura inicial de la cabecera
+
+commit 77695779ac16963dad2e9fb763611a963632f150
+Author: danielggc <danielgrecia7@gmail.com>
+Date:   Mon Nov 16 22:13:33 2020 -0500
+
+    desarrondo estilos y  actualizando informacion
+
+commit 95d826d5fb50728ac58cc461a216c12c44572f39
+Author: danielggc <danielgrecia7@gmail.com>
+Date:   Mon Nov 16 02:59:40 2020 -0500
+
+    volviendo a una vercion anterior
+
+commit e8d599376733d7594aa4cdadec255114b042b964
+Author: danielggc <danielgrecia7@gmail.com>
+Date:   Mon Nov 16 02:56:20 2020 -0500
+
+     repitiendo titulo
+
+commit 468ea8d64b908880a66da50a32f8847ec452efab
+Author: danielggc <danielgrecia7@gmail.com>
+Date:   Mon Nov 16 02:51:46 2020 -0500
+
+    empiezo mi proyectto con html y css
+
+commit b9a5f0202613825b3bb80436a2ee8c97a4e9820d
+Author: danielggc <danielgrecia7@gmail.com>
+Date:   Mon Nov 16 02:27:10 2020 -0500
+
+    inicio de todo
