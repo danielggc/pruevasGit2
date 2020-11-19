@@ -46,3 +46,8 @@ body{
     background:white;
     padding:1em;
 }
+
+#container #familia{
+    width: 100px;
+    vertical-align: middle;
+}
