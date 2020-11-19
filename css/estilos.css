@@ -35,3 +35,10 @@ body{
 #post{
     padding:1em;
 }
+#footer{
+    background-color: rgb(114, 114, 114);
+    font-size: 15px;
+    margin: 1px;
+    color: blanchedalmond;
+    
+}
