@@ -1,25 +1,33 @@
 body{
+    background: black;
     color:rgb(1, 0, 2);
     text-align:center;
     font-family: "Arial";
     font-size: 16px;
+    margin: 0;
+    padding:20;
+
 }  
 #cabecera{
-    width: 70%;
-    font-size: 32px;
-    background: rgb(87, 173, 6);
-    color: rgb(110, 110, 100);
-    box-shadow: 0px 5px 30px 0px rgba(0, 0,0,0.75) ;
-    font-weight: normal;
+    font-size: 30px;
+    background: #37488b;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
     margin: 0;
-    padding: 1em;
-
+    padding: 0.3em;
+    
 } 
 #cabecera #tagline{
     padding:  0 0 0 1em;
     font-weight: normal;
-    font-size: 0.8em;
+    font-size: 1.8em;
 
+
+}
+#cabecera #logo{
+    width: 80px;
+    vertical-align: middle;
 }
 #container{
     width:70%;
@@ -27,11 +35,14 @@ body{
     text-align: left;
     border: 1px solid #b411dd;
     margin: 0 auto;
+    color: black;
+    background:rgb(217, 244, 252) ;
 }
 
 #container h1 {
     font-size: 20px;
 }
 #post{
+    background:white;
     padding:1em;
 }
